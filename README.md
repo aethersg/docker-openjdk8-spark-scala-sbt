@@ -1,4 +1,5 @@
-# docker-openjdk8-spark-scala-sbt
+docker-openjdk8-spark-scala-sbt
+===============================
 
 This image contains the following softwares:
 
