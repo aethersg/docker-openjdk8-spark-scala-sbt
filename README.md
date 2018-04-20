@@ -3,7 +3,7 @@ docker-openjdk8-spark-scala-sbt
 
 This image contains the following softwares:
 
-* OpenJDK 64-Bit v1.8.0_161
+* OpenJDK 64-Bit v1.8.0_162
 * Scala v2.12.5
 * SBT v1.1.4
 * Apache Spark v2.3.0
