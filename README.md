@@ -1,0 +1,1 @@
+# docker-openjdk8-spark-scala-sbt
