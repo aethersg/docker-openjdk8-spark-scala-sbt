@@ -75,11 +75,11 @@ All the required binaries have been added to the `PATH`.
 
 ### Start Spark Slave
 
-    start-slave.sh spark://spark:8088
+    start-slave.sh spark://spark:7077
 
 ### Execute Spark job for calculating `Pi` Value
 
-    spark-submit --class org.apache.spark.examples.SparkPi --master spark://spark:8088 $SPARK_HOME/examples/jars/spark-examples*.jar 100
+    spark-submit --class org.apache.spark.examples.SparkPi --master spark://spark:7077 $SPARK_HOME/examples/jars/spark-examples*.jar 100
     .......
     .......
     Pi is roughly 3.140495114049511
